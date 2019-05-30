@@ -1,0 +1,3 @@
+/home/millerraycell/Documents/Miller_PontosExtras_SO_rr_2019/Exercicio_aula_30.05/Questao-1/Exemplo_2-Mutex/kernel_module_mutex.ko
+/home/millerraycell/Documents/Miller_PontosExtras_SO_rr_2019/Exercicio_aula_30.05/Questao-1/Exemplo_2-Mutex/kernel_module_mutex.o
+
